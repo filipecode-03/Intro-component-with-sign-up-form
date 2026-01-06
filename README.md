@@ -8,12 +8,6 @@ The application was built using **React.js** for component logic, **Vite** for a
 
 ### 🛠️ Technologies Used
 
-- ⚛️ **React.js**
-- ⚡ **Vite**
-- 🎨 **Tailwind CSS**
-- 🧱 **HTML5**
-- 📜 **JavaScript (ES6+)**
-
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,html,js)](https://skillicons.dev)
 
 ### 🧠 Learnings
